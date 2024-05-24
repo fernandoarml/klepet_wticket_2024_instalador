@@ -8,7 +8,7 @@ sudo apt -y update && apt -y upgrade &&sudo apt install -y git && git clone http
 
 Durante a instalação informe a URL abaixo como URL do respositório
 
-[https://github.com/fernandoarml/klepet_wticket_2024.git]
+https://github.com/fernandoarml/klepet_wticket_2024.git
 
 ## Requisitos
 
