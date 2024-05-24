@@ -6,6 +6,10 @@ FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE
 sudo apt -y update && apt -y upgrade &&sudo apt install -y git && git clone https://github.com/fernandoarml/klepet_wticket_2024_instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 ```
 
+Durante a instalação informe a URL abaixo como URL do respositório
+
+[https://github.com/fernandoarml/klepet_wticket_2024.git]
+
 ## Requisitos
 
 | --- | Mínimo | Recomendado |
